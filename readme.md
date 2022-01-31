@@ -28,7 +28,7 @@ REST endpoints that are used in the UI have been implemented.
 
 ### API:
 
-- Make sure the application logic is working correctly and feel free to refractor or change the code to make it work as desired.
+- Make sure the application logic is working correctly and feel free to refactor or change the code to make it work as desired.
 - Implement the test suite to cover the API. Preferred framework is `NUnit`.
 
 ## This code task is to test a candidate's ability to (non exhaustive list):
@@ -58,6 +58,6 @@ REST endpoints that are used in the UI have been implemented.
 
 ## How to submit
 
-Clone the repo and make the changes. Push the changes to your github and share the link to the repository with us. Make sure the the repository is publicly accessible.
+Clone the repo and make the changes. Push the changes to your github and share the link to the repository with us. Make sure the repository is publicly accessible.
 
 Note: Please do not fork the repository or submit a pull request to this project.
