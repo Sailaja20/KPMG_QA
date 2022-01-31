@@ -24,7 +24,7 @@ REST endpoints that are used in the UI have been implemented.
 ### UI:
 - Implement missing features
     > Please start the application (see instructions below) and explore it to understand what needs to be implemented.
-- Implement the test suite to cover the UI. Preferred frameworks are `Jest` and `Cypress` but open to use any frameworks.
+- Implement the test suite to cover the UI. Preferred framework is `CodeceptJs` but open to use any frameworks.
 
 ### API:
 
