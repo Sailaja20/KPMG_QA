@@ -35,7 +35,7 @@ REST endpoints that are used in the UI have been implemented. //-checked
 - Make sure the application logic is working correctly and feel free to refactor or change the code to make it work as desired.
 // Small correction I did and tried in another workplace it worked fine. 
 - Implement the test suite to cover the API. Preferred framework is `NUnit`. 
-// I installed Nunit but some reason it's not working in visual studio code. I never worked on Nunit so I analysed it how can I write code using that tool.
+// I installed Nunit but some reason it's not working in visual studio code. I never worked on Nunit so I analysed it how can I write code using that tool and written test cases under Api/tests.
 
 ## This code task is to test a candidate's ability to (non exhaustive list):
 - code
